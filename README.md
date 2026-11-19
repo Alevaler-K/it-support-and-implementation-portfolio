@@ -5,10 +5,10 @@
 ---
 
 ### 🛠 Стек и инструменты:
-**Базы данных:** SQL, PostgreSQL
-**API и интеграции:** REST API, Postman, Swagger / OpenAPI 3.0, JSON
-**Моделирование и процессы:** BPMN, UML(Sequence), PlantUML, Draw.io
-**Контроль версий:** Git, GitHub
+**Базы данных:** SQL, PostgreSQL<br>
+**API и интеграции:** REST API, Postman, Swagger / OpenAPI 3.0, JSON<br>
+**Моделирование и процессы:** BPMN, UML(Sequence), PlantUML, Draw.io<br>
+**Контроль версий:** Git, GitHub<br>
 **Управление и документация:** Jira, Confluence, Markdown, VS Code
   
 ---
