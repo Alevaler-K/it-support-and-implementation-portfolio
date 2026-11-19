@@ -16,7 +16,7 @@
 ### 📂 Содержимое портфолио
 
 1. **[Спецификация REST API](https://github.com/Alevaler-K/it-support-and-implementation-portfolio/blob/main/api/openapi.yaml)** — пример описания эндпоинтов интернет-магазина (корзина и заказы) в формате OpenAPI 3.0.
-2. **[Интерактивная OpenAPI-документация (Redoc)](ссылка_на_страницу_github_pages)** — пример спецификации REST API, оформленной по стандарту Docs-as-Code.
+2. **[Интерактивная OpenAPI-документация (Redoc)](https://alevaler-k.github.io/it-support-and-implementation-portfolio/)** — пример спецификации REST API, оформленной по стандарту Docs-as-Code.
 3. **[Схема бизнес-процесса BPMN](ссылка_на_файл)** — визуализация логики работы бизнес-процесса (например, обработки заказа на складе).
 4. **[Sequence-диаграмма](https://github.com/Alevaler-K/it-support-and-implementation-portfolio/blob/main/diagrams/order-flow.puml)** — визуализация интеграционного взаимодействия и логики создания заказа (PlantUML).
 5. **[Примеры SQL-запросов](ссылка_на_файл)** — базовые запросы для выгрузки данных и анализа (полезно при диагностике инцидентов).
