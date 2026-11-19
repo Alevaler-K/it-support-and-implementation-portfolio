@@ -21,7 +21,7 @@
 4. **[Sequence-диаграмма](https://github.com/Alevaler-K/it-support-and-implementation-portfolio/blob/main/diagrams/order-flow.puml)** — визуализация интеграционного взаимодействия и логики создания заказа (PlantUML).
 5. **[Примеры SQL-запросов](ссылка_на_файл)** — базовые запросы для выгрузки данных и анализа (полезно при диагностике инцидентов).
 6. **[Руководство для разработчиков / саппорта](https://github.com/Alevaler-K/it-support-and-implementation-portfolio/blob/main/guides/quickstart.md)** — гайд по быстрому старту работы с API.
-7. **[Релизные заметки](ссылка_на_файл)** — пример Release Notes для спринта.
+7. **[Релизные заметки](https://github.com/Alevaler-K/it-support-and-implementation-portfolio/blob/main/release-notes/v1.2.0.md)** — пример Release Notes для спринта.
 
 ---
 
