@@ -18,7 +18,7 @@
 1. **[Спецификация REST API](https://github.com/Alevaler-K/it-support-and-implementation-portfolio/blob/main/api/openapi.yaml)** — пример описания эндпоинтов интернет-магазина (корзина и заказы) в формате OpenAPI 3.0.
 2. **[Интерактивная OpenAPI-документация (Redoc)](https://alevaler-k.github.io/it-support-and-implementation-portfolio/)** — пример спецификации REST API, оформленной по стандарту Docs-as-Code.
 3. **[Схема бизнес-процесса BPMN](https://github.com/Alevaler-K/it-support-and-implementation-portfolio/blob/main/diagrams/order-bpmn.svg)** — визуализация логики работы бизнес-процесса (например, обработки заказа на складе).
-4. **[Sequence-диаграмма](https://github.com/Alevaler-K/it-support-and-implementation-portfolio/blob/main/diagrams/order-flow.puml)** — визуализация интеграционного взаимодействия и логики создания заказа (PlantUML).
+4. **[Sequence-диаграмма](https://github.com/Alevaler-K/it-support-and-implementation-portfolio/blob/main/diagrams/order-flow.png)** — визуализация интеграционного взаимодействия и логики создания заказа (PlantUML).
 5. **[Примеры SQL-запросов](ссылка_на_файл)** — базовые запросы для выгрузки данных и анализа (полезно при диагностике инцидентов).
 6. **[Руководство для разработчиков / саппорта](https://github.com/Alevaler-K/it-support-and-implementation-portfolio/blob/main/guides/quickstart.md)** — гайд по быстрому старту работы с API.
 7. **[Релизные заметки](https://github.com/Alevaler-K/it-support-and-implementation-portfolio/blob/main/release-notes/v1.2.0.md)** — пример Release Notes для спринта.
